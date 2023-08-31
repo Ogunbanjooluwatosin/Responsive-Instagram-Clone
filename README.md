@@ -28,3 +28,9 @@ Simply open the index.html file in your preferred web browser.
 Explore and Interact:
 
 You can now explore the Responsive Instagram Clone.
+
+
+
+![Project Screenshot](images/Screenshot 2023-08-31 235326.png)
+
+
