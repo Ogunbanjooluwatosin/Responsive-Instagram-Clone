@@ -30,7 +30,6 @@ Explore and Interact:
 You can now explore the Responsive Instagram Clone.
 
 
-
-![Project Screenshot](images/Screenshot 2023-08-31 235326.png)
-
+Download Review
+![Project Screenshot](https://drive.google.com/uc?export=download&id=1iDOxJMjJzBYXSVK3nJUmo3lgbMVm1Cc5)
 
