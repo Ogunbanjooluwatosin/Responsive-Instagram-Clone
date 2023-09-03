@@ -33,6 +33,6 @@ You can now explore the Responsive Instagram Clone.
 Download Review
 **Project Demo Video**
 
-[![Demo Video](https://drive.google.com/file/d/?v=1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk)](https://drive.google.com/file/d/?v=1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk)
+[![Demo Video](https://drive.google.com/file/d/1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk/preview)](https://drive.google.com/file/d/1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk/preview)
 
 Watch this video to see the key features of our project in action.
