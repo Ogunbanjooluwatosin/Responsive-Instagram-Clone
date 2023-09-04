@@ -29,11 +29,11 @@ Explore and Interact:
 
 You can now explore the Responsive Instagram Clone.
 Project Demo Picture
-![Alt Text](https://drive.google.com/uc?export=download&id=1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk)
+![Responsive Instagram Clone Screenshot](https://drive.google.com/uc?export=download&id=1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk)
 
 Download Review
 **Project Demo Video**
 
-[![Demo Video](https://drive.google.com/file/d/1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk/preview)](https://drive.google.com/file/d/1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk/preview)
+[![Responsive Instagram Clone Video](https://drive.google.com/file/d/1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk/preview)](https://drive.google.com/file/d/1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk/preview)
 
 Watch this video to see the key features of our project in action.
