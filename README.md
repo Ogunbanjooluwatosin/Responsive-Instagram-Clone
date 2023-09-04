@@ -28,7 +28,8 @@ Simply open the index.html file in your preferred web browser.
 Explore and Interact:
 
 You can now explore the Responsive Instagram Clone.
-
+Project Demo Picture
+![Alt Text](https://drive.google.com/uc?export=download&id=1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk)
 
 Download Review
 **Project Demo Video**
