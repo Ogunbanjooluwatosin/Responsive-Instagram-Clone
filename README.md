@@ -36,7 +36,7 @@ You can now explore the Responsive Instagram Clone.
 
 ![Responsive Instagram Clone Screenshot](https://drive.google.com/uc?export=download&id=1JDCNP3yOo7KR500H5GjrT-Z__sAFYnKk)
 
-Download Review
+**Download Review**
 **Project Demo Video**
 
 
